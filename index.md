@@ -23,7 +23,7 @@
 
 1. I would like to visit:
      - Hawaii
-     - Honululu
+           - Honululu
     
 *TO-DO:
 - [x] first assignment
