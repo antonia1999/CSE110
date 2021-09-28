@@ -19,12 +19,10 @@
 2. Hawaii
 3. Mallorca
 
-1. I would like to go to:
-   -Hawaii
-    -Honululu
+*and*
 
-100. First list item
-     - First nested list item
+100. I would like to visit:
+     - Hawaii
     
 *TO-DO:
 - [x] first assignment
