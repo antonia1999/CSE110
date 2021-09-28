@@ -21,8 +21,9 @@
 
 *and*
 
-100. I would like to visit:
+1. I would like to visit:
      - Hawaii
+     - Honululu
     
 *TO-DO:
 - [x] first assignment
