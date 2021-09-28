@@ -22,6 +22,9 @@
 1. I would like to go to:
    -Hawaii
     -Honululu
+
+100. First list item
+     - First nested list item
     
 *TO-DO:
 - [x] first assignment
