@@ -1,20 +1,20 @@
-##**Antonia Valentina Huwe user page**
+## **Antonia Valentina Huwe user page**
 
 *Welcome to my user page. In the following you will get to know me a little bit more*
 
-*I am Antonia, 22 years old and from Frankfurt, Germany. I will be studying at UCSD for one semester and hope to have a great time in San Diego. 
-*I do a lot CrossFit, play tennis and I love hanging out with my friends. In San Diego I love to go to the beach and enjoying the sun.
+*I am Antonia, 22 years old and from Frankfurt, Germany. I will be studying at UCSD for one semester and hope to have a great time in San Diego.*
+*I do a lot CrossFit, play tennis and I love hanging out with my friends. In San Diego I love to go to the beach and enjoying the sun.*
 
 *My life motto:* 
 >be your own sunshine.
 
 *I would really like to visit some states in USA:*
--Nevada
--Washington
--Oregon 
+- Nevada
+- Washington
+- Oregon 
 
-*
-#My Fave places on earth:
+
+# My Fave places on earth:
 1. Maledives
 2. Hawaii
 3. Mallorca
